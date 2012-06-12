@@ -1,0 +1,13 @@
+#header{
+ display:block;
+ margin:0 auto;
+ width:960px;
+ float:left;
+
+}
+
+#header h1{
+ display:block;
+ text-transform:uppercase;
+ font:25px "arial";
+}

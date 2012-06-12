@@ -1,0 +1,246 @@
+
+*{
+margin:0;
+padding:0;
+}
+body
+  {
+
+    background:url('/home/revolt-tech-3/grishma/html/project1/images/wrap_bg.gif') no-repeat 362px 0px #000
+
+  }
+
+#wrapper
+  {
+    width:1040px;
+    height:auto;
+    margin:0 auto;
+    margin-top:20px;
+    display:block;
+
+  }
+
+  .main_content
+    {
+      color:white
+      float:left;
+      display:block;
+      background:url("/home/revolt-tech-3/grishma/html/project1/images/banner_img.png") no-repeat left bottom;
+      height: 193px;
+      margin: 0 0 0 -49px;
+      padding: 52px 0 50px 68px;
+      width: 100%;
+
+    }
+
+nav
+   {
+      color:white;
+      float:left;
+      display:block;
+     width:100%;
+     background:url("/home/revolt-tech-3/grishma/html/project1/images/menuBorder_img.gif") repeat-x left bottom;
+     padding: 5px;
+   }
+nav ul
+  {
+    list-style:none;
+  }
+
+nav ul li
+  {
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 2px;
+    padding: 0 18px
+  }
+
+nav ul li a
+  {
+  color:white;
+  text-decoration:none;
+  }
+
+nav ul li a:hover
+  {
+   transform:scale(1.5,1.2);
+   color:orange;
+   text-decoration:none;
+  }
+
+#sidemain
+  {
+
+    float:left;
+    height:295px;
+    width:337px;
+  }
+
+.comment
+    {
+      height: 460px;
+      margin: 59px 0 0 11px;
+      width: 338px;
+    }
+
+
+  #sidemain2{
+  display:block;
+  float:left;
+  width:65%;
+  margin:0 0 0 27px;
+  }
+
+#p1
+  {
+   color: #FFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 20px 0 0 214px;
+    float:left;
+  }
+
+#p2
+  {
+    font:16px/21px Arial, Helvetica, sans-serif;
+    color:white;
+    padding: 0 0 0 54px;
+    width: 470px;
+  }
+
+.p3
+  {
+    font-size:13px;
+    line-height:25px;
+    color:white;
+    margin:0px 10px 0;
+    width:239px;
+
+
+  }
+#s3
+  {
+    float:left;
+    height:20px;
+    width:20px;
+    margin:0px 0px 0px 83px;
+  }
+span
+  {
+  color:orange;
+  }
+h1
+  {
+    color: white;
+    font-size: 17px;
+    padding: 0 0 0 54px;
+  }
+
+#text h2{
+          font-size:14px;
+          margin:0 11px;
+        }
+
+.prize
+      {
+      float: left;
+      width: 198px;
+      display:block;
+          margin: 0 -22px 0 0;
+      padding: 0px 0px 0px 30px;
+      }
+
+.img
+      {
+      border-color: white;
+      float: left;
+      margin: 0 0 18px 124px;
+      padding: 0;
+      width: 26%;
+      }
+.img1
+    {
+      margin: 24px 27px 0;
+    padding: 0 0 0 11px;
+    width: 96%;
+    }
+#text
+  {
+    float:left;
+    width:200px;
+    margin:0 10px 0 10px;
+    display:block;
+  }
+
+#fb {
+    float: left;
+    width: 114px;
+    display:block;
+    }
+
+#h2
+  {
+    color:orange;
+    line-height:10px;
+  }
+
+.content
+  {
+    float:left;
+    width:100%;
+
+  }
+
+
+.p4 {
+      font-size:13px;
+    line-height: 36px;
+    margin: 0 0 0;
+    color:white;
+    text-decoration:none;
+   }
+.antidandruff
+    {
+    display: block;
+    float: left;
+    margin: 32px -18px 60px;
+    width: 90%;
+    }
+footer
+    {
+    border-top: 4px solid white;
+    float: left;
+    height: 69px;
+    margin-top: 108px;
+    width: 100%;
+    }
+.shampoo
+  {
+  width:270;
+  margin: -129px 563px 0 0;
+  float:right;
+  }
+
+#sidemain3 {
+       background:url("/home/revolt-tech-3/grishma/html/project1/images/focus_img.png") no-repeat left top;
+       display:block;
+       float:left;
+       width: 674px;
+      height:auto;
+   }
+#sidemain3al
+  {
+    float:left;
+    width:100%;
+
+
+    }
+    #bottom
+    {
+      background:-moz-linear-gradient(top ,#000,#202020);
+      float:left;
+      width:100%;
+      padding-bottom:30px;
+    }
